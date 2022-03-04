@@ -1,5 +1,5 @@
 # ⚡ Behold the power of Software ⚡!
-Hi, I'm Mickey, a developer and software engineer interested in the full stack of software possibilities.
+Hi, I'm Mickey, a developer and software engineer interested in the full software stack.
 
 I've worked as an Artificial Intelligence engineer and loved to tinker with the software side of things in 🐍 Python 🐍.
 Now I'm learning React, Nodejs and other web related technologies through [this course](https://fullstackopen.com/en/) hosted by the University of Hellsinky 🕸️. You can find my repository [here](https://github.com/mickeybeurskens/fullstackopen-course).
