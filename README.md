@@ -1,7 +1,7 @@
 # ⚡ Behold the power of Software ⚡!
 Hi, I'm Mickey, a developer and software engineer interested in the full software stack.
 
-I've worked as an Artificial Intelligence engineer and loved to tinker with the software side of things in 🐍 Python 🐍. I'm also working on an Artificial Intelligence company called [Artifial Intelligence](https://forgefire.dev):fire:.
+I've worked as an Artificial Intelligence engineer and loved to tinker with the software side of things in 🐍 Python 🐍. I'm also working on an Artificial Intelligence company called [Forge Fire](https://forgefire.dev):fire:.
 
 Feel free to contact me at `info@forgefire.dev` or through [LinkedIn](https://www.linkedin.com/in/mickey-beurskens/).
 
