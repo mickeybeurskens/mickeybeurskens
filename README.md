@@ -1,9 +1,11 @@
-# ⚡ Behold the power of Software ⚡!
-Hi, I'm Mickey, a developer, entrepreneur and software engineer.
+# Hello!
+I'm Mickey Beurskens, a developer, entrepreneur and AI research engineer.
 
-I've worked as an Artificial Intelligence Engineer and a Robotics Engineer and loved to tinker with the software side of things in 🐍 Python 🐍. Since then I've taken up web development, CI/CD and all kinds of other interesting skills and projects. I also run a Software Engineering company called [Forge Fire](https://forgefire.dev):fire:. I invite you to check it out!
+I've worked as an Artificial Intelligence Engineer and a Robotics Engineer. Now I mainly design and prototype data and AI applications for customers throught my own company [Forge Fire AI Engineering](https://forgefire.dev):fire: and am working on AI alignment research independently.
 
 Feel free to contact me at `info@forgefire.dev` or through [LinkedIn](https://www.linkedin.com/in/mickey-beurskens/).
+
+You can read my blog at [Mickey.Coffee](https://mickey.coffee) ☕. 
 
 <!--
 **mickeybeurskens/mickeybeurskens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
