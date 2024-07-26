@@ -1,5 +1,5 @@
 # Hello!
-I'm Mickey Beurskens, a developer, entrepreneur and AI research engineer.
+I'm Mickey Beurskens, a developer, entrepreneur and AI engineer.
 
 I've worked as an Artificial Intelligence Engineer and a Robotics Engineer. Now I mainly design and prototype data and AI applications for customers throught my own company [Forge Fire AI Engineering](https://forgefire.dev):fire:.
 
