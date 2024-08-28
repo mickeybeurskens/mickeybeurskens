@@ -1,21 +1,44 @@
-I'm Mickey Beurskens, an entrepreneur and AI engineer.
+## 🛠️ Open Source
 
-I design and prototype data and AI applications for customers throught my own company [Forge Fire AI Engineering](https://forgefire.dev):fire:.
+- __[Guess The Password 🗝️](https://github.com/mickeybeurskens/guess-the-password):__ A guessing game used to explore large language model guardrailing concepts.
+- __[My Blog 📖](https://github.com/mickeybeurskens/mickeybeurskens.github.io):__ The source code for my blog, written in Hugo.
+- __[Perry Doc Search 🕵](https://github.com/mickeybeurskens/perry-doc-search):__ An early large language model based PDF document search prototype. 
 
-Feel free to contact me at `info@forgefire.dev` or through [LinkedIn](https://www.linkedin.com/in/mickey-beurskens/).
 
-You can read my blog at [Mickey.Coffee](https://mickey.coffee) ☕. 
+## 🪶 Professional Info
 
-<!--
-**mickeybeurskens/mickeybeurskens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- __[Forge Fire AI Engineering](https://forgefire.dev):__ Freelance AI application, data and software development.
+- __[Work With Me](https://www.linkedin.com/in/mickey-beurskens/):__ If you want to make use of my expertise in your company or team, send me a message on [LinkedIn](https://www.linkedin.com/in/mickey-beurskens/) or [X](https://x.com/mickeybeurskens).
+- __[Writing](https://mickey.coffee):__ You can find my writing on AI and other topics [on my website](mickey.coffee).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## ⚖️ Public Speaking
+
+- __[Team Red - Hacking Large Language Models](https://www.youtube.com/watch?v=F-UGqGsQvhc):__ At PyData Eindhoven - _2023, 30th of November_
+- __[AI Demystified](https://mikrocentrum.nl/en/technology/materials/)__: At the Materials Fair convention - _2022, 30th of April_
+
+## ⚡ Resources
+
+Learning resources and books, in no particular order.
+
+### Online
+
+- __[FastAI - Practical Deep Learning](https://course.fast.ai/)__: A great course on the basics of artificial intelligence engineering for programmers.
+- __[OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)__: Comprehensive resource on reinforcement learning.
+- __[Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/)__: A bit of personal nostalgia, basics on how neural networks work and how to build them.
+- __[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)__: Video series by Andrej Karpathy focussing on foundational, and at the same time practical, understanding of machine learning and large language models. 
+
+### Books
+
+- __[The Black Swan: The Impact of the Highly Improbable](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)__ by _Nassim Taleb_
+- __[Antifragile: Things That Gain from Disorder](https://en.wikipedia.org/wiki/Antifragile_(book))__ by _Nassim Taleb_
+- __[Skin in the Game: Hidden Asymmetries in Daily Life](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book))__ by _Nassim Taleb_
+- __[A Man for All Markets (Autobiography)](https://en.wikipedia.org/wiki/Edward_O._Thorp)__ by _Edward O. Thorp_
+- __[Harry Potter and the Methods of Rationality](https://hpmor.com/)__ by _Eliezer Yudkowsky_
+- __[Poor Charlie's Almanack. The Essential Wit and Wisdom of Charles T. Munger](https://www.stripe.press/poor-charlies-almanack)__: by _Peter D. Kaufman_
+- __[Influence: The Psychology of Persuasion
+](https://en.wikipedia.org/wiki/Robert_Cialdini)__: by _Robert Cialdini_
+
+
+
+
