@@ -36,9 +36,8 @@ Learning resources and books, in no particular order.
 - __[A Man for All Markets (Autobiography)](https://en.wikipedia.org/wiki/Edward_O._Thorp)__ by _Edward O. Thorp_
 - __[Harry Potter and the Methods of Rationality](https://hpmor.com/)__ by _Eliezer Yudkowsky_
 - __[Poor Charlie's Almanack. The Essential Wit and Wisdom of Charles T. Munger](https://www.stripe.press/poor-charlies-almanack)__: by _Peter D. Kaufman_
-- __[Influence: The Psychology of Persuasion
-](https://en.wikipedia.org/wiki/Robert_Cialdini)__: by _Robert Cialdini_
-
+- __[Influence: The Psychology of Persuasion](https://en.wikipedia.org/wiki/Robert_Cialdini)__: by _Robert Cialdini_
+- __[The Almanack Of Naval Ravikant](https://www.navalmanack.com/)__: by _Eric Jorgenson_
 
 
 
