@@ -26,7 +26,8 @@ Learning resources and books, in no particular order.
 - __[FastAI - Practical Deep Learning](https://course.fast.ai/)__: A great course on the basics of artificial intelligence engineering for programmers.
 - __[OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)__: Comprehensive resource on reinforcement learning.
 - __[Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/)__: A bit of personal nostalgia, basics on how neural networks work and how to build them.
-- __[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)__: Video series by Andrej Karpathy focussing on foundational, and at the same time practical, understanding of machine learning and large language models. 
+- __[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)__: Video series by Andrej Karpathy focussing on foundational, and at the same time practical, understanding of machine learning and large language models.
+- __[Keybr](https://www.keybr.com/)__: Awesome typing practice. Really worth while to practice typing if that is what you do all day.
 
 ### Books
 
