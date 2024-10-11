@@ -19,7 +19,7 @@
 
 ## ⚡ Resources
 
-Learning resources and books, in no particular order.
+Resources that I have found to be useful.
 
 ### Learning
 
@@ -36,6 +36,11 @@ Learning resources and books, in no particular order.
 - __[Paul Graham](https://paulgraham.com/)__: Essays on work, startups, life in general.
 - __[Mr Money Mustache](https://www.mrmoneymustache.com/)__: On financial independence.
 - __[Wait But Why](https://waitbutwhy.com/)__: Chaotic hodgepodge of charming posts on all sorts of topics.
+
+### Challenges & Competitions
+
+- __[Over The Wire - Bandit](https://overthewire.org/wargames/bandit/)__: Capture The Flag game that you can use to teach yourself a bunch of linux command line skills.
+- __[Kaggle](https://www.kaggle.com/)__: Data science playground. Perfect place to learn data analysis techniques from the best of the best.
 
 ### Books
 
